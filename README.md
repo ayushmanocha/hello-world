@@ -1,2 +1,2 @@
 # hello-world
-first programe on github
+just an repository
